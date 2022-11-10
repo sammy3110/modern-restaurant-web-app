@@ -22,6 +22,6 @@ Let's dine at [FoodTuck !](https://foodtuck.netlify.app/) 🍔
 ![Why Choose Us](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/choose-ss.JPG)
 ![Menu](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/menu-ss.JPG)
 ![Chefs](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/chefs-ss.JPG)
-![Testimonials](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/images/screenshots/testimonials-ss.JPG)
+![Testimonials](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/testimonials-ss.JPG)
 ![Blogs](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/blogs-ss.JPG)
 ![Footer](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/footer-ss.JPG)
