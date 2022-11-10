@@ -4,7 +4,7 @@
 Modern-designed **restaurant web-app** 🍕 built with **React**.
 
 Design credits:
-[**Wang-Weiss**](https://dribbble.com/shots/5658350-12-9-Ipad-Pro-Music-player)
+[**Ayeman**](https://www.figma.com/file/WTqTu90ATGZRRqCK4aFW6r/Elite---Food-Restaurant-%26-Coffee-Free-Figma-Template-(Community)-(Community))
 
 
 
