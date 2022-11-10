@@ -16,12 +16,12 @@ Design credits:
 Let's dine at [FoodTuck !](https://foodtuck.netlify.app/) 🍔
 ## `Screenshots`
 
-![Home](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/about-us-ss.JPG)
-![About Us](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/about-us-ss.JPG)
-![Food Category](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/category-ss.JPG)
-![Why Choose Us](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/choose-ss.JPG)
-![Menu](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/menu-ss.JPG)
-![Chefs](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/chefs-ss.JPG)
-![Testimonials](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/testimonials-ss.JPG)
-![Blogs](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/blogs-ss.JPG)
-![Footer](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/images/screenshots/footer-ss.JPG)
+![Home](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/home-ss.JPG)
+![About Us](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/about-us-ss.JPG)
+![Food Category](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/category-ss.JPG)
+![Why Choose Us](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/choose-ss.JPG)
+![Menu](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/menu-ss.JPG)
+![Chefs](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/chefs-ss.JPG)
+![Testimonials](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/images/screenshots/testimonials-ss.JPG)
+![Blogs](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/blogs-ss.JPG)
+![Footer](https://github.com/sammy3110/modern-restaurant-web-app/blob/main/public/screenshots/footer-ss.JPG)
