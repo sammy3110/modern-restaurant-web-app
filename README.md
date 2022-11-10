@@ -11,7 +11,7 @@ Design credits:
 ## `Demo`
 **Deployed on**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3aba3c43-4c72-4cb1-85f6-03196daf66c3/deploy-status)](https://app.netlify.com/sites/shyams-react-music-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/527f60f8-a9cb-4977-8f2b-ffe437ec8936/deploy-status)](https://app.netlify.com/sites/foodtuck/deploys)
 
 Let's dine at [FoodTuck !](https://foodtuck.netlify.app/) 🍔
 ## `Screenshots`
