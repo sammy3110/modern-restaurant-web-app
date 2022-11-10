@@ -5,7 +5,7 @@ const Choose = () => {
   return (
     <div className="choose-container">
       <div className="home-info-container choose-info-container">
-        <img src="images/choose-image.png" alt="choose-image" />
+        <img src="images/choose-image.png" alt="choose" />
         <div className="home-info choose-info">
           <Title align="left">
             <h2>Why Choose us</h2>

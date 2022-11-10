@@ -1,5 +1,5 @@
 import React from "react";
-import { HiOutlineShoppingBag, HiSearch } from 'react-icons/hi';
+import { HiOutlineShoppingBag } from 'react-icons/hi';
 import { Title } from "./styled/Title.styled";
 
 const Navbar = () => {

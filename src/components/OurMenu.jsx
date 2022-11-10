@@ -74,7 +74,7 @@ const OurMenu = () => {
         <li>Soups</li>
       </ul>
       <div className="our-menu-list-container">
-        <img src="images/menu-image.png" alt="menu-image" />
+        <img src="images/menu-image.png" alt="menu" />
         <div className="our-menu-list">
           <div className="out-menu-list1">
             {menuItemList1.map(item => {return <MenuItem key={item.id} item={item}/>})}

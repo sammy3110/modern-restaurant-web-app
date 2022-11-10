@@ -14,10 +14,10 @@ const Category = () => {
           </Title>
         </div>
         <div className="category-images">
-            <img src="images/category-image1.png" alt="category-image" />
-            <img src="images/category-image2.png" alt="category-image" />
-            <img src="images/category-image3.png" alt="category-image" />
-            <img src="images/category-image4.png" alt="category-image" />
+            <img src="images/category-image1.png" alt="category" />
+            <img src="images/category-image2.png" alt="category" />
+            <img src="images/category-image3.png" alt="category" />
+            <img src="images/category-image4.png" alt="category" />
         </div>
       </div>
     </div>

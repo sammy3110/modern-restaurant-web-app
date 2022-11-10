@@ -12,10 +12,10 @@ const Chefs = () => {
         </h1>
       </Title>
       <div className="chefs-list">
-        <img src="images/chefs/chef-image1.png" alt="chef-image" />
-        <img src="images/chefs/chef-image2.png" alt="chef-image" />
-        <img src="images/chefs/chef-image3.png" alt="chef-image" />
-        <img src="images/chefs/chef-image4.png" alt="chef-image" />
+        <img src="images/chefs/chef-image1.png" alt="chef" />
+        <img src="images/chefs/chef-image2.png" alt="chef" />
+        <img src="images/chefs/chef-image3.png" alt="chef" />
+        <img src="images/chefs/chef-image4.png" alt="chef" />
       </div>
       <Button varient="transparent">See More</Button>
     </div>
